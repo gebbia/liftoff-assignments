@@ -58,11 +58,11 @@ https://trello.com/b/1VslZg9H/liftoff
 ## Submission Instructions
  
 ### GitHub
-https://github.com/gebbia
+https://github.com/gebbia *need to still edit github profile to be presentable
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-*(working on setting up a LinkedIn)
+www.linkedin.com/in/natasha-gebbia
+*working on editing LinkedIn profile to be presentable
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
