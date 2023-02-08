@@ -58,14 +58,11 @@ https://trello.com/b/1VslZg9H/liftoff
 ## Submission Instructions
  
 ### GitHub
-https://github.com/gebbia *need to still edit github profile to be presentable
+https://github.com/gebbia
  
 ### LinkedIn
 www.linkedin.com/in/natasha-gebbia
-*working on editing LinkedIn profile to be presentable
+
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
-*(still working on resume)
+PDF to resume in C1-Online_Profiles folder
